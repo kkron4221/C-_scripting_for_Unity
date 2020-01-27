@@ -1,0 +1,10 @@
+using UnityEngine;
+using System.Collections;
+
+public class NewBehaviourScript : MonoBehaviour{
+  void Start(){
+    Debug.log("C# programing for Unity starging here")
+  }
+}
+  
+  
